@@ -1,14 +1,14 @@
 # DS-Mini-Project
 
-# 📚 Python E-Book Reader (Data Structure Focus)
+# Python E-Book Reader (Data Structure Focus)
 
-## 🌟 Project Summary
+## Project Summary
 
 This project is a Graphical User Interface (GUI) E-Book Reader built in Python using `tkinter`. Its primary function is to demonstrate the practical application of core data structures, specifically **Stacks** and **Lists**, to manage a user's reading experience and navigation history.
 
 ---
 
-## ⚙️ Data Structures in Action
+## Data Structures in Action
 
 The design relies on efficient data structure manipulation to handle core reader functionality:
 
@@ -20,7 +20,7 @@ The design relies on efficient data structure manipulation to handle core reader
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **GUI Interface:** Simple, easy-to-use interface for displaying text and controls.
 * **Dynamic Navigation:** Seamless "Previous" and "Forward" navigation powered by Stacks.
@@ -29,7 +29,7 @@ The design relies on efficient data structure manipulation to handle core reader
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 1.  **Prerequisites:** Requires Python 3.x.
 2.  **Dependencies:** (Optional) Install `PyMuPDF` for PDF support: `pip install PyMuPDF`
