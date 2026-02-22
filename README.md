@@ -1,6 +1,6 @@
 # DS-Mini-Project
 
-# Python E-Book Reader (Data Structure Focus)
+# Python E-Book Reader (Data Structure Project)
 
 ## Project Summary
 
