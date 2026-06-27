@@ -1,10 +1,10 @@
 # DS-Mini-Project
 
-# Python E-Book Reader (Data Structure Project)
+# E-Book Reader (Data Structure Project)
 
 ## Project Summary
 
-This project is a Graphical User Interface (GUI) E-Book Reader built in Python using `tkinter`. Its primary function is to demonstrate the practical application of core data structures, specifically **Stacks** and **Lists**, to manage a user's reading experience and navigation history.
+This project is a Graphical User Interface (GUI) E-Book Reader built in C. Its primary function is to demonstrate the practical application of core data structures, specifically **Stacks** and **Lists**, to manage a user's reading experience and navigation history.
 
 ---
 
